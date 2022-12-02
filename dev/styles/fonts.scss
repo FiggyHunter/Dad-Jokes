@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Spacetime Regular';
+    src: url(../fonts/spacetime-regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserat Italic';
+    src: url(../fonts/Montserrat-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'Montserat Regular';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserat Extra Bold';
+    src: url(../fonts/Montserrat-ExtraBold.ttf)
+}
+
+$spacetime: 'Spacetime Regular';
+$monty-regular: 'Montserat Regular';
+$monty-italic: 'Montserat Italic';
+$monty-xbold: 'Montserat Extra Bold';
